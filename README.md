@@ -1,0 +1,2 @@
+# prisma-hello
+hello-prisma
